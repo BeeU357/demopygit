@@ -1,4 +1,5 @@
 print("Hello")
 print("...JuNgKoOkAaa!!!")
 print("WaEee SaRaNgHaEeee!!!")
-print("NoMu ApPaaa!!! JuNgKoOk!!!")
+print("NoMu ApPaaa!!! JuNgKoOkAaaaa!!!")
+print("ApPa!! ApPa!! ApPaaaa!!!")
